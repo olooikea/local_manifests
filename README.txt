@@ -27,5 +27,6 @@ Devise folders for jactivelte:
 cd RR (WORKING_DIRECTORY)
 
 make -j* PRODUCT-jactivelte-userdebug
+(Error) build/core/product_config.mk:249: *** Can not locate config makefile for product "jactivelte"
 
 RR/out/target/product/jactivelte/
