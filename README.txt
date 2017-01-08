@@ -21,6 +21,8 @@ Devise folders for jactivelte:
   RR/device/samsung/jactivelte/ (device tree)
   
   RR/vendor (vendor files)
+  
+  RR/Makefile (search --block\ and remove line)
 
 
 
